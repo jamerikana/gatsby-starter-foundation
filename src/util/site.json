@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "I'm a Hokie",
+    "title": "SOWNREAP",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://lucid-hodgkin-d56e51.netlify.app/",
+    "description": "This is the professional site of Amilia Evans who is the owner of SOWREAP, llc.",
+    "siteUrl": "https://amiliaevans.netlify.app/",
     "image": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
   },

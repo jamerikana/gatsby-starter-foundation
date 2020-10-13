@@ -4,7 +4,7 @@ slug: /
 title: SOWNREAP, LLC
 tagline: "Proposal development experts providing your company with 360-degree
   service to win government contracts. "
-featuredImage: /assets/snr-logo.png
+featuredImage: /assets/snr-logo.jpg
 cta:
   ctaText: Know more
   ctaLink: /about

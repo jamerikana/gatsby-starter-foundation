@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "SOWNREAP",
+    "title": "SOWNREAP, LLC",
     "titleTemplate": "%s",
     "description": "This is the professional site of Amilia Evans who is the owner of SOWREAP, llc.",
     "siteUrl": "https://amiliaevans.netlify.app/",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
